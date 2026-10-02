@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.elf
+*.bin
+*.map
+
+# VS Code
+.vscode/
+
+# WSL / Linux
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
